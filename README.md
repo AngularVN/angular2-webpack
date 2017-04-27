@@ -1,6 +1,6 @@
 # Angular4 with TypeScript and Webpack
 
-# Switch to (Angular4-Webpack)(https://github.com/AngularVN/angular4-webpack)
+## Switch to Angular4-Webpack (https://github.com/AngularVN/angular4-webpack)
 
 [![Paypal](https://img.shields.io/badge/donate-paypal-blue.svg)](https://goo.gl/mgesnb)
 [![Gratipay Team](https://img.shields.io/gratipay/Angular-VN/shields.svg)](https://gratipay.com/Angular-VN)
